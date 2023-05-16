@@ -1,0 +1,15 @@
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.csproj.AssemblyReference.cache
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.Form1.resources
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.Properties.Resources.resources
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.csproj.GenerateResource.cache
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.csproj.CoreCompileInputs.cache
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\bin\Debug\WeatherTemp.exe.config
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\bin\Debug\WeatherTemp.exe
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\bin\Debug\WeatherTemp.pdb
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.csproj.CopyComplete
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.exe
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.pdb
+C:\Users\phanh\source\repos\WeatherTemp\WeatherTemp\obj\Debug\WeatherTemp.ForecastUC.resources
